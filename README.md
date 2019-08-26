@@ -1,25 +1,3 @@
-# smsid 
-
-**Smsid | Mengirim sms dengan termux  (Java program)**
-======================================
-
-> Mengirim sms dari terminal (termux) ?
-> Tak perlu pulsa, cukup koneksi internet untuk menggunakan ini.
-> Tak perlu **python**, **php**, **ruby**, **perl**, **golang** ataupun program interpreter lainnya, untuk menjalankan ini, karna ini berjalan langsung pada dalvikVM (android virtual mechine).
-
-
-## Daftar Isi
-
-- [Cara Penggunaan](#cara-penggunaan)
-
-- [Installation](#installation)
-
-- [Author](#author)
-
-- [Buildwith](#buildwith)
-
-- [Changelog](#changelog)
-
 
 
 ## Cara Penggunaan 
